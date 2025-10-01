@@ -1,0 +1,23 @@
+{
+  "message": {
+    "role": "assistant",
+    "content": [
+      {
+        "text": "I'll help you create a comprehensive plan that balances your work schedule with dedicated reading time! Let me first check your journal for any relevant context about your preferences and patterns, then work with both my task and home agents to create the perfect weekly plan."
+      },
+      {
+        "toolUse": {
+          "toolUseId": "tooluse_MDKB4mqaTiSktafr6eumHQ",
+          "name": "journal",
+          "input": {
+            "action": "read"
+          }
+        }
+      }
+    ]
+  },
+  "message_id": 1,
+  "redact_message": null,
+  "created_at": "2025-08-13T15:47:45.356220+00:00",
+  "updated_at": "2025-08-13T15:47:45.356226+00:00"
+}

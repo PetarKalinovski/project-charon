@@ -1,0 +1,14 @@
+{
+  "message": {
+    "role": "user",
+    "content": [
+      {
+        "text": "I am annoyed that I have been slacking with reading in my free time. I want your help to decide an entire plan for me for the following week. So unless you see anything booked, assume I will be working from 9 to 5, but other than that I am fine. Help me add reading time to my calendar."
+      }
+    ]
+  },
+  "message_id": 0,
+  "redact_message": null,
+  "created_at": "2025-08-13T15:47:42.024955+00:00",
+  "updated_at": "2025-08-13T15:47:42.024962+00:00"
+}

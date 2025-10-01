@@ -1,0 +1,14 @@
+{
+  "message": {
+    "role": "assistant",
+    "content": [
+      {
+        "text": "Yes, your speech-to-text is working! I can see your message came through clearly, including the casual tone and the \"uh\" pause that's typical in spoken language. \n\nI noticed you mentioned \"jet 2 holiday\" - that sounds like you might be thinking about travel or vacation planning. Are you actually looking for help with holiday planning, or were you just using that as a test phrase for your speech-to-text system?\n\nIf you do need assistance with anything - whether it's work-related tasks, leisure planning, or anything else - I'm here to help route you to the right resources!"
+      }
+    ]
+  },
+  "message_id": 1,
+  "redact_message": null,
+  "created_at": "2025-08-11T13:58:38.109240+00:00",
+  "updated_at": "2025-08-11T13:58:38.109244+00:00"
+}

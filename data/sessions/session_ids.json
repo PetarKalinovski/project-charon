@@ -1,0 +1,38 @@
+[
+  {
+    "session_id": "bbo_agent 10/08/2025, 16:36:12",
+    "description": "Why are you called Charon? Give me a short response. Max 20 words!"
+  },
+  {
+    "session_id": "bbo_agent 11/08/2025, 10:53:46",
+    "description": "Why are you called Charon?"
+  },
+  {
+    "session_id": "bbo_agent 11/08/2025, 15:58:31",
+    "description": "Nothing beats a jet 2 holiday. I'm only testing the, uh, speech to text. Is it working?"
+  },
+  {
+    "session_id": "bbo_agent 13/08/2025, 10:42:35",
+    "description": "I heard there is a colab between Noah Smith and Dwarkesh Patel. I love those dudes. Add it to my journal as a task. But don't confuse it with a work task ever, ok?"
+  },
+  {
+    "session_id": "bbo_agent 13/08/2025, 12:33:15",
+    "description": "I need to implement a file writing tool for my Charon project and want to unwind afterward"
+  },
+  {
+    "session_id": "bbo_agent 13/08/2025, 16:57:53",
+    "description": "Uh, hi. Can you tell me, uh, what my Google Calendar looks like for the next three days?"
+  },
+  {
+    "session_id": "bbo_agent 13/08/2025, 17:47:41",
+    "description": "I am annoyed that I have been slacking with reading in my free time. I want your help to decide an entire plan for me for the following week. So unless you see anything booked, assume I will be working from 9 to 5, but other than that I am fine. Help me add reading time to my calendar."
+  },
+  {
+    "session_id": "bbo_agent 14/08/2025, 09:11:46",
+    "description": "I would like to implement a file writting tool for a project called Charon. And then I would like to relax."
+  },
+  {
+    "session_id": "bbo_agent 14/08/2025, 09:25:56",
+    "description": "I need your help to implement a file writting tool for my project Called Charon. And I also want to relax after that. Also find a slot in my calendar for both of these."
+  }
+]

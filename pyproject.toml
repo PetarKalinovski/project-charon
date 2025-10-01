@@ -1,0 +1,45 @@
+[project]
+name = "project-charon"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "google-api-python-client>=2.177.0",
+    "google-auth>=2.40.3",
+    "google-auth-oauthlib>=1.2.2",
+    "ipykernel>=6.30.0",
+    "litellm>=1.72.9",
+    "loguru>=0.7.3",
+    "npx>=0.1.6",
+    "mcp>=1.12.0",
+    "npx>=0.1.6",
+    "playwright>=1.54.0",
+    "pytest>=8.4.1",
+    "pytz>=2025.2",
+    "strands-agents-tools>=0.2.1",
+    "strands-agents[litellm]>=1.0.1",
+    "tools>=1.0.2",
+    "tree>=0.2.4",
+    "substack-api>=1.1.1",
+    "isodate>=0.7.2",
+    "pyaudio>=0.2.14",
+    "aws-sdk-bedrock-runtime>=0.0.2",
+    "smithy-aws-core>=0.0.3",
+    "kokoro>=0.9.4",
+    "soundfile>=0.13.1",
+    "pip>=25.2",
+    "misaki[en]>=0.9.4",
+    "gradio>=5.41.0",
+    "spaces>=0.39.0",
+    "sounddevice>=0.5.2",
+    "scipy>=1.16.1",
+    "elevenlabs>=2.9.2",
+]
+
+[dependency-groups]
+dev = [
+    "pre-commit>=4.2.0",
+    "ruff>=0.12.4",
+    "ty>=0.0.1a15",
+]

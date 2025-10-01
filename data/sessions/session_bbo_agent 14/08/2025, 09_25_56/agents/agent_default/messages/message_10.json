@@ -1,0 +1,14 @@
+{
+  "message": {
+    "role": "user",
+    "content": [
+      {
+        "text": "Book the split sessions in my calendar please. And also book the midnight library 2 a day right after a coding session."
+      }
+    ]
+  },
+  "message_id": 10,
+  "redact_message": null,
+  "created_at": "2025-08-14T07:31:09.916119+00:00",
+  "updated_at": "2025-08-14T07:31:09.916131+00:00"
+}

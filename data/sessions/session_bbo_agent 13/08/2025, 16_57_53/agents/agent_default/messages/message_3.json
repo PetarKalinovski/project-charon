@@ -1,0 +1,23 @@
+{
+  "message": {
+    "role": "assistant",
+    "content": [
+      {
+        "text": "Now let me check your calendar through the Task Agent, as calendar management falls under work and productivity systems:"
+      },
+      {
+        "toolUse": {
+          "toolUseId": "tooluse_pLvUyd1VR5axwC0_olZ5-g",
+          "name": "task_agent_query",
+          "input": {
+            "query": "Can you show me what's on my Google Calendar for the next three days? I'd like to see my upcoming schedule and commitments."
+          }
+        }
+      }
+    ]
+  },
+  "message_id": 3,
+  "redact_message": null,
+  "created_at": "2025-08-13T14:58:19.744258+00:00",
+  "updated_at": "2025-08-13T14:58:19.744261+00:00"
+}

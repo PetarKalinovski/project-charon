@@ -1,0 +1,14 @@
+{
+  "message": {
+    "role": "user",
+    "content": [
+      {
+        "text": "Can you add to the journal entry you just did? I want it to be explained that it's a youtube video, of around 1h. And that I saw noah tweeted that he liked Dwarkesh."
+      }
+    ]
+  },
+  "message_id": 4,
+  "redact_message": null,
+  "created_at": "2025-08-13T08:44:46.947235+00:00",
+  "updated_at": "2025-08-13T08:44:46.947241+00:00"
+}

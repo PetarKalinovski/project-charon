@@ -1,0 +1,204 @@
+{
+  "to_watch": [
+    {
+      "title": "The Bear",
+      "year": 2022,
+      "genre": "Comedy-Drama",
+      "director": "Christopher Storer",
+      "notes": "Everyone says this is amazing",
+      "added_date": "2024-02-20"
+    },
+    {
+      "title": "Everything Everywhere All at Once",
+      "year": 2022,
+      "genre": "Sci-Fi",
+      "director": "Daniels",
+      "notes": "Oscar winner, seems wild",
+      "added_date": "2024-01-10"
+    },
+    {
+      "title": "The Last of Us",
+      "year": 2023,
+      "genre": "Horror",
+      "director": "Craig Mazin",
+      "notes": "HBO adaptation of the game",
+      "added_date": "2024-01-05"
+    },
+    {
+      "title": "Top Gun: Maverick",
+      "year": 2022,
+      "genre": "Action",
+      "director": "Joseph Kosinski",
+      "notes": "Supposed to be better than the original",
+      "added_date": "2023-12-28"
+    },
+    {
+      "title": "House of the Dragon",
+      "year": 2022,
+      "genre": "Fantasy",
+      "director": "Ryan Condal",
+      "notes": "Game of Thrones prequel",
+      "added_date": "2023-12-15"
+    },
+    {
+      "title": "The Menu",
+      "year": 2022,
+      "genre": "Thriller",
+      "director": "Mark Mylod",
+      "notes": "Dark comedy about fine dining",
+      "added_date": "2023-11-20"
+    },
+    {
+      "title": "Wednesday",
+      "year": 2022,
+      "genre": "Comedy",
+      "director": "Alfred Gough",
+      "notes": "Addams Family spinoff on Netflix",
+      "added_date": "2023-11-10"
+    },
+    {
+      "title": "Avatar: The Way of Water",
+      "year": 2022,
+      "genre": "Sci-Fi",
+      "director": "James Cameron",
+      "notes": "Need to watch in IMAX if possible",
+      "added_date": "2023-10-05"
+    },
+    {
+      "title": "Abbott Elementary",
+      "year": 2021,
+      "genre": "Comedy",
+      "director": "Quinta Brunson",
+      "notes": "Mockumentary about teachers",
+      "added_date": "2023-09-15"
+    },
+    {
+      "title": "Young Justice",
+      "year": 2010,
+      "genre": "Animation, Action, Adventure",
+      "director": "Greg Weisman, Brandon Vietti",
+      "notes": "DC Comics superhero team animated series",
+      "added_date": "2025-07-30"
+    },
+    {
+      "title": "Inception",
+      "year": 2010,
+      "genre": "Action, Adventure, Sci-Fi",
+      "director": "Christopher Nolan",
+      "notes": "Added via OMDB enrichment. Mind-bending heist thriller starring Leonardo DiCaprio.",
+      "added_date": "2025-08-03"
+    }
+  ],
+  "watched": [
+    {
+      "title": "Oppenheimer",
+      "year": 2023,
+      "genre": "Biography",
+      "director": "Christopher Nolan",
+      "notes": "Incredible cinematography, heavy subject matter",
+      "added_date": "2023-07-15",
+      "watched_date": "2024-01-20",
+      "rating": 9
+    },
+    {
+      "title": "Barbie",
+      "year": 2023,
+      "genre": "Comedy",
+      "director": "Greta Gerwig",
+      "notes": "Surprisingly deep and funny",
+      "added_date": "2023-07-10",
+      "watched_date": "2024-01-18",
+      "rating": 8
+    },
+    {
+      "title": "The Batman",
+      "year": 2022,
+      "genre": "Action",
+      "director": "Matt Reeves",
+      "notes": "Dark and gritty take on Batman",
+      "added_date": "2022-03-01",
+      "watched_date": "2024-01-15",
+      "rating": 8
+    },
+    {
+      "title": "Stranger Things",
+      "year": 2016,
+      "genre": "Sci-Fi",
+      "director": "The Duffer Brothers",
+      "notes": "Finished all 4 seasons - what a ride!",
+      "added_date": "2022-01-01",
+      "watched_date": "2024-01-10",
+      "rating": 9
+    },
+    {
+      "title": "The White Lotus",
+      "year": 2021,
+      "genre": "Dark Comedy",
+      "director": "Mike White",
+      "notes": "Season 1 was perfect, Season 2 also great",
+      "added_date": "2021-07-15",
+      "watched_date": "2024-01-05",
+      "rating": 9
+    },
+    {
+      "title": "Encanto",
+      "year": 2021,
+      "genre": "Animation",
+      "director": "Jared Bush",
+      "notes": "Songs stuck in my head for weeks",
+      "added_date": "2021-11-20",
+      "watched_date": "2023-12-20",
+      "rating": 8
+    },
+    {
+      "title": "Ted Lasso",
+      "year": 2020,
+      "genre": "Comedy",
+      "director": "Bill Lawrence",
+      "notes": "Most wholesome show ever made",
+      "added_date": "2020-08-15",
+      "watched_date": "2023-11-15",
+      "rating": 10
+    },
+    {
+      "title": "Succession",
+      "year": 2018,
+      "genre": "Drama",
+      "director": "Jesse Armstrong",
+      "notes": "Best finale ever written",
+      "added_date": "2019-03-01",
+      "watched_date": "2023-10-20",
+      "rating": 10
+    },
+    {
+      "title": "Spider-Man: Across the Spider-Verse",
+      "year": 2023,
+      "genre": "Animation",
+      "director": "Joaquim Dos Santos",
+      "notes": "Visually stunning, can't wait for part 3",
+      "added_date": "2023-06-01",
+      "watched_date": "2023-08-10",
+      "rating": 9
+    },
+    {
+      "title": "The Queen's Gambit",
+      "year": 2020,
+      "genre": "Drama",
+      "director": "Scott Frank",
+      "notes": "Made me want to learn chess",
+      "added_date": "2020-10-25",
+      "watched_date": "2023-07-01",
+      "rating": 9
+    },
+    {
+      "title": "Dune: Part Two",
+      "year": 2024,
+      "genre": "Sci-Fi",
+      "director": "Denis Villeneuve",
+      "notes": "Amazing movie with stunning visuals and a great soundtrack.",
+      "added_date": "2024-03-15",
+      "watched_date": "2025-08-03",
+      "rating": 10
+    }
+  ]
+}

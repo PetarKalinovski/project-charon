@@ -1,0 +1,14 @@
+{
+  "message": {
+    "role": "user",
+    "content": [
+      {
+        "text": "audio-off"
+      }
+    ]
+  },
+  "message_id": 10,
+  "redact_message": null,
+  "created_at": "2025-08-13T15:54:47.404855+00:00",
+  "updated_at": "2025-08-13T15:54:47.404864+00:00"
+}

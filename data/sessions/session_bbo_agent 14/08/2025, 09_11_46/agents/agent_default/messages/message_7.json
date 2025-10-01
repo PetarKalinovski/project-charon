@@ -1,0 +1,23 @@
+{
+  "message": {
+    "role": "assistant",
+    "content": [
+      {
+        "text": "Great! Now let me help you plan some relaxation time after your coding session:"
+      },
+      {
+        "toolUse": {
+          "toolUseId": "tooluse_P5w4lPV5SdmXawYTB_1GvA",
+          "name": "home_agent_query",
+          "input": {
+            "query": "The user wants to relax after working on a coding project (implementing a file writing tool for 4-6 hours). Can you suggest some good relaxation activities and help plan their leisure time? They'll likely be mentally tired from coding work."
+          }
+        }
+      }
+    ]
+  },
+  "message_id": 7,
+  "redact_message": null,
+  "created_at": "2025-08-14T07:13:13.831776+00:00",
+  "updated_at": "2025-08-14T07:13:13.831780+00:00"
+}

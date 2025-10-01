@@ -1,0 +1,23 @@
+{
+  "message": {
+    "role": "assistant",
+    "content": [
+      {
+        "text": "Let me check for any recent journal entries to understand your patterns:"
+      },
+      {
+        "toolUse": {
+          "toolUseId": "tooluse_sKTjcbVMSXqAGlPzEh233A",
+          "name": "journal",
+          "input": {
+            "action": "list"
+          }
+        }
+      }
+    ]
+  },
+  "message_id": 3,
+  "redact_message": null,
+  "created_at": "2025-08-14T07:11:51.888952+00:00",
+  "updated_at": "2025-08-14T07:11:51.888958+00:00"
+}

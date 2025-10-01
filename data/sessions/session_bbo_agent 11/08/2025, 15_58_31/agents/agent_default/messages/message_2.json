@@ -1,0 +1,14 @@
+{
+  "message": {
+    "role": "user",
+    "content": [
+      {
+        "text": "(engine roaring)"
+      }
+    ]
+  },
+  "message_id": 2,
+  "redact_message": null,
+  "created_at": "2025-08-11T13:59:25.952245+00:00",
+  "updated_at": "2025-08-11T13:59:25.952252+00:00"
+}

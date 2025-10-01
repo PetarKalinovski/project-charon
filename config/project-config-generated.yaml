@@ -1,0 +1,34 @@
+files_agent:
+  root_directory: home/petar/Documents
+  model:
+    model_id: us.anthropic.claude-sonnet-4-20250514-v1:0
+calendar_agent:
+  model:
+    model_id: us.anthropic.claude-sonnet-4-20250514-v1:0
+books_agent:
+  model:
+    model_id: us.anthropic.claude-sonnet-4-20250514-v1:0
+  book_list_file: data/book_list.json
+movies_agent:
+  model:
+    model_id: us.anthropic.claude-sonnet-4-20250514-v1:0
+  movie_list_file: data/movie_and_show.json
+task_agent:
+  model:
+    model_id: us.anthropic.claude-sonnet-4-20250514-v1:0
+github_agent:
+  github_username: PetarKalinovski
+  model:
+    model_id: us.anthropic.claude-sonnet-4-20250514-v1:0
+recommender_agent:
+  model:
+    model_id: us.anthropic.claude-sonnet-4-20250514-v1:0
+  substack_newsletters_file: data/substack_newsletters.json
+  youtube_channels_file: data/youtube_channels.json
+home_agent:
+  model:
+    model_id: us.anthropic.claude-sonnet-4-20250514-v1:0
+big_boss_orchestrator_agent:
+  model:
+    model_id: us.anthropic.claude-sonnet-4-20250514-v1:0
+  sleep_tracking_file: data/sleep_tracking.json

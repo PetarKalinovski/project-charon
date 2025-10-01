@@ -1,0 +1,14 @@
+{
+  "message": {
+    "role": "user",
+    "content": [
+      {
+        "text": "Why are you called Charon? Give me a short response. Max 20 words!"
+      }
+    ]
+  },
+  "message_id": 0,
+  "redact_message": null,
+  "created_at": "2025-08-10T14:36:12.872111+00:00",
+  "updated_at": "2025-08-10T14:36:12.872117+00:00"
+}

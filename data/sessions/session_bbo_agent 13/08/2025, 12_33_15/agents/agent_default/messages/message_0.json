@@ -1,0 +1,14 @@
+{
+  "message": {
+    "role": "user",
+    "content": [
+      {
+        "text": "I need to implement a file writing tool for my Charon project and want to unwind afterward"
+      }
+    ]
+  },
+  "message_id": 0,
+  "redact_message": null,
+  "created_at": "2025-08-13T10:33:15.959965+00:00",
+  "updated_at": "2025-08-13T10:33:15.959972+00:00"
+}

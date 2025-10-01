@@ -1,0 +1,232 @@
+{
+  "to_read": [
+    {
+      "title": "The Midnight Library",
+      "author": "Matt Haig",
+      "genre": "Fiction",
+      "pages": 288,
+      "notes": "Recommended by Sarah after I loved 'Klara and the Sun'",
+      "added_date": "2024-01-15"
+    },
+    {
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "genre": "Self-Help",
+      "pages": 320,
+      "notes": "Want to build better routines for 2024",
+      "added_date": "2024-01-02"
+    },
+    {
+      "title": "Sapiens",
+      "author": "Yuval Noah Harari",
+      "genre": "Non-Fiction",
+      "pages": 443,
+      "notes": "Been meaning to read this for years",
+      "added_date": "2023-12-28"
+    },
+    {
+      "title": "The Last Question",
+      "author": "Isaac Asimov",
+      "genre": "Science Fiction",
+      "pages": 9,
+      "notes": "Audio CD, 2007 publication",
+      "added_date": "2025-08-05"
+    },
+    {
+      "title": "1491: New Revelations of the Americas Before Columbus",
+      "author": "Charles C. Mann",
+      "genre": "History",
+      "pages": 563,
+      "notes": "Vintage, 2011 publication",
+      "added_date": "2025-08-05"
+    },
+    {
+      "title": "The Origins of Political Order: From Prehuman Times to the French Revolution",
+      "author": "Francis Fukuyama",
+      "genre": "Political Science",
+      "pages": 585,
+      "notes": "Farrar, Straus and Giroux, 2011 publication",
+      "added_date": "2025-08-05"
+    },
+    {
+      "title": "Leviathan",
+      "author": "Thomas Hobbes",
+      "genre": "Political Philosophy",
+      "pages": 736,
+      "notes": "Penguin Books, 1981 publication",
+      "added_date": "2025-08-05"
+    },
+    {
+      "title": "Gateway (Heechee Saga, #1)",
+      "author": "Frederik Pohl",
+      "genre": "Science Fiction",
+      "pages": 278,
+      "notes": "Del Rey, 2004 publication",
+      "added_date": "2025-08-05"
+    },
+    {
+      "title": "Kissinger: Vol 1: The Idealist, 1923-1968",
+      "author": "Niall Ferguson",
+      "genre": "Biography",
+      "pages": 1008,
+      "notes": "Penguin Press (NY), 2015 publication",
+      "added_date": "2025-08-05"
+    },
+    {
+      "title": "The Beginning of Infinity: Explanations That Transform the World",
+      "author": "David Deutsch",
+      "genre": "Science",
+      "pages": 496,
+      "notes": "Penguin Group, 2011 publication",
+      "added_date": "2025-08-05"
+    },
+    {
+      "title": "The Foundation Novels 7-Book Bundle: Foundation, Foundation and Empire, Second Foundation, Foundation's Edge, Foundation and Earth, Prelude to Foundation, Forward the Foundation",
+      "author": "Isaac Asimov",
+      "genre": "Science Fiction",
+      "pages": 2680,
+      "notes": "Spectra, 2014 publication",
+      "added_date": "2025-08-05"
+    },
+    {
+      "title": "Critique of Pure Reason",
+      "author": "Immanuel Kant",
+      "genre": "Philosophy",
+      "pages": 785,
+      "notes": "Cambridge University Press, 1999 publication",
+      "added_date": "2025-08-05"
+    },
+    {
+      "title": "Neuromancer (Sprawl, #1)",
+      "author": "William Gibson",
+      "genre": "Science Fiction",
+      "pages": 268,
+      "notes": "Ace, 2018 publication",
+      "added_date": "2025-08-05"
+    },
+    {
+      "title": "Cryptonomicon",
+      "author": "Neal Stephenson",
+      "genre": "Science Fiction",
+      "pages": 1152,
+      "notes": "Avon, 2002 publication",
+      "added_date": "2025-08-05"
+    },
+    {
+      "title": "Snow Crash",
+      "author": "Neal Stephenson",
+      "genre": "Science Fiction",
+      "pages": 559,
+      "notes": "Spectra, 2018 publication",
+      "added_date": "2025-08-05"
+    },
+    {
+      "title": "The Lions of Al-Rassan",
+      "author": "Guy Gavriel Kay",
+      "genre": "Fantasy",
+      "pages": 528,
+      "notes": "Harper Voyager, 2005 publication",
+      "added_date": "2025-08-05"
+    },
+    {
+      "title": "Tigana",
+      "author": "Guy Gavriel Kay",
+      "genre": "Fantasy",
+      "pages": 676,
+      "notes": "Berkley, 1999 publication",
+      "added_date": "2025-08-05"
+    },
+    {
+      "title": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "genre": "Classics",
+      "pages": 272,
+      "notes": "Random House: Modern Library, 2004 publication",
+      "added_date": "2025-08-05"
+    },
+    {
+      "title": "Dr. Jekyll and Mr. Hyde",
+      "author": "Robert Louis Stevenson",
+      "genre": "Classics",
+      "pages": 128,
+      "notes": "Penguin Classics, 2003 publication",
+      "added_date": "2025-08-05"
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "Classic Fiction",
+      "pages": 281,
+      "notes": null,
+      "added_date": "2025-08-05"
+    },
+    {
+      "title": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "genre": "Psychology",
+      "pages": 499,
+      "notes": "Perfect for understanding cognitive biases and decision-making - essential Ezra Klein territory",
+      "added_date": "2025-08-13"
+    },
+    {
+      "title": "The Righteous Mind",
+      "author": "Jonathan Haidt",
+      "genre": "Psychology",
+      "pages": 419,
+      "notes": "Explains moral psychology and political divides - classic Klein interview territory",
+      "added_date": "2025-08-13"
+    }
+  ],
+  "read": [
+    {
+      "title": "The Martian",
+      "author": "Andy Weir",
+      "genre": "Science Fiction",
+      "pages": 369,
+      "rating": 8,
+      "notes": "Page-turner! Science was accessible and humor kept it light.",
+      "added_date": "2023-10-20",
+      "read_date": "2023-12-15"
+    },
+    {
+      "title": "The Final Empire (Mistborn, Book 1)",
+      "author": "Brandon Sanderson",
+      "genre": "Epic Fantasy",
+      "pages": 541,
+      "notes": "Loved the magic system and character development. The world-building was incredible and kept me engaged throughout.",
+      "added_date": "2025-08-03",
+      "read_date": "2025-08-05",
+      "rating": 9.5
+    },
+    {
+      "title": "The Way of Kings",
+      "author": "Brandon Sanderson",
+      "genre": "Epic Fantasy",
+      "pages": 1007,
+      "notes": "Epic fantasy with amazing world-building and characters. Can't wait for the next books in the series.",
+      "added_date": "2025-08-03",
+      "read_date": "2025-08-05",
+      "rating": 10.0
+    },
+    {
+      "title": "Words of Radiance",
+      "author": "Brandon Sanderson",
+      "genre": "Fantasy",
+      "pages": 1007,
+      "notes": "Still my favorite book of all time",
+      "added_date": "2025-08-05",
+      "read_date": "2025-08-05",
+      "rating": 10.0
+    },
+    {
+      "title": "Gambling with Armageddon",
+      "author": "Martin J. Sherwin",
+      "genre": "History",
+      "pages": 0,
+      "notes": "Interesting historical perspective on nuclear weapons",
+      "added_date": "2025-08-05",
+      "read_date": "2025-08-05",
+      "rating": 8.0
+    }
+  ]
+}

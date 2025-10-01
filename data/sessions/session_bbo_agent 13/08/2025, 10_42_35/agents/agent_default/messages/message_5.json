@@ -1,0 +1,21 @@
+{
+  "message": {
+    "role": "assistant",
+    "content": [
+      {
+        "toolUse": {
+          "toolUseId": "tooluse_w4-eQpdhQB-jE92hVTeqCA",
+          "name": "journal",
+          "input": {
+            "action": "write",
+            "content": "Check out the Noah Smith and Dwarkesh Patel collaboration - it's a YouTube video, around 1h. I saw Noah tweeted that he liked Dwarkesh."
+          }
+        }
+      }
+    ]
+  },
+  "message_id": 5,
+  "redact_message": null,
+  "created_at": "2025-08-13T08:44:49.417614+00:00",
+  "updated_at": "2025-08-13T08:44:49.417617+00:00"
+}

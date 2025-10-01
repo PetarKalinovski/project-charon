@@ -1,0 +1,22 @@
+{
+  "message": {
+    "role": "user",
+    "content": [
+      {
+        "toolResult": {
+          "toolUseId": "tooluse_VxZxM46ASk-habP5qAo22w",
+          "status": "error",
+          "content": [
+            {
+              "text": "No journal found for date: 2025-08-14"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "message_id": 2,
+  "redact_message": null,
+  "created_at": "2025-08-14T07:25:58.714096+00:00",
+  "updated_at": "2025-08-14T07:25:58.714101+00:00"
+}

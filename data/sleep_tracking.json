@@ -1,0 +1,61 @@
+{
+    "sleep_sessions": [
+        {
+            "date": "2025-08-06",
+            "duration": 360,
+            "quality": "fair",
+            "notes": "Woke up several times during the night."
+        },
+        {
+            "date": "2025-08-05",
+            "duration": 540,
+            "quality": "good",
+            "notes": "Slept through the night with minimal disturbances."
+        },
+        {
+            "date": "2025-08-04",
+            "duration": 300,
+            "quality": "poor",
+            "notes": "Had trouble falling asleep and woke up early."
+        },
+        {
+            "date": "2025-08-03",
+            "duration": 480,
+            "quality": "good",
+            "notes": "Consistent sleep pattern, felt refreshed."
+        },
+        {
+            "date": "2025-08-02",
+            "duration": 420,
+            "quality": "fair",
+            "notes": "Slightly restless sleep."
+        },
+        {
+            "date": "2025-08-01",
+            "duration": 600,
+            "quality": "good",
+            "notes": "Long sleep, felt very rested."
+        },
+        {
+            "date": "2025-07-31",
+            "duration": 480,
+            "quality": "good",
+            "notes": "Normal sleep, no disturbances."
+        },
+        {
+            "date": "2025-08-07",
+            "total_sleep_time": 300,
+            "sleep_quality": "good",
+            "notes": "Couldn't fall asleep till 3am, but slept like a rock once asleep"
+        }
+    ],
+    "weekly_summary": [
+        {
+            "week_start": "2025-07-31",
+            "week_end": "2025-08-06",
+            "average_duration": 450,
+            "average_quality": "good",
+            "notes": "Overall good sleep quality with consistent duration."
+        }
+    ]
+}
